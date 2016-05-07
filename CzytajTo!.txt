@@ -1,0 +1,5 @@
+Sterowanie
+Strzalki prawo i lewo
+Skok - spacja
+Strzal - lewy ctrl
+Reset poziomu - R
